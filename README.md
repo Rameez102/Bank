@@ -10,14 +10,13 @@ User can see the account balance and statement.
 
 Prerequisites:
 
-Java 8
-Maven
+Java 8,Maven
 
 Technology stack:
 
-Spring Boot 2
-Spring Data 
-Spring Data Rest
-In memory H2
-Maven
+Spring Boot 2,
+Spring Data, 
+Spring Data Rest,
+In memory H2,
+Maven,
 Java 8
